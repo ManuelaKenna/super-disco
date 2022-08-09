@@ -1,3 +1,4 @@
+//time rows
 $(document).ready(function(){
     for (let index = 9; index < 19; index++) {
         var color = ""
